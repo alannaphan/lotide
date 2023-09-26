@@ -30,3 +30,4 @@ assertEqual(result[" "], 2); // false
 assertEqual(result["h"], 4); // true
 
 
+module.exports = countLetters;

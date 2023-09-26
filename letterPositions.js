@@ -37,4 +37,4 @@ assertArraysEqual(positions["n"], [12]); //true
 assertArraysEqual(letterPositions("hello").e, [1]); //true
 assertArraysEqual(letterPositions("I am testing this hehe").e, [6, 19, 21]); //true
 
-
+module.exports = letterPositions;

@@ -49,3 +49,5 @@ assertArraysEqual((nom), [
   'nuggets is the best!'
 ]);
 assertArraysEqual((squared), [4, 9, 16, 25, 36]);
+
+module.exports = map;

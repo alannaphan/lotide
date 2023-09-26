@@ -54,3 +54,5 @@ const results2 = findKey(
 assertEqual(results, "noma");
 assertEqual(results1, "Akaleri");
 assertEqual(results2, undefined);
+
+module.exports = findKey;
